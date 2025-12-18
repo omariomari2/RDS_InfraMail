@@ -1,6 +1,6 @@
 # AWS Four-Tier Mailing Application - Technical Project Report
 
-**Project Name:** Omari Mailing Service  
+**Project Name:** InfraMail 
 **Architecture Type:** Four-Tier Multi-AZ Production Deployment  
 **Cloud Provider:** Amazon Web Services (AWS)  
 **Region:** US-West-1 (N. California)  
