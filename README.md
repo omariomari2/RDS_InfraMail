@@ -14,12 +14,3 @@ The project explores reverse proxies, separate application servers, and database
 
 Start with the [architecture diagram](prod-env-project-architecture.png) and [database configuration notes](appservers-database-config/app-database-config.md).
 The scripts expect manually configured AWS resources. They are not a complete infrastructure-as-code deployment.
-
-## Limits
-
-A cloud engineering lab, not a verified production deployment.
-Availability, failover, scaling, and cost figures have not been established by recorded tests.
-The PHP application needs an authentication and output-handling review before use with real records.
-
-Use synthetic addresses and an isolated AWS account. Review resource costs before provisioning, then remove lab resources when finished.
-
